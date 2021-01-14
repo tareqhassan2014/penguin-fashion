@@ -1,0 +1,29 @@
+h1, h2, h3, h5{
+    color: #363958;
+}
+.my-btn{
+    background: #2A1E59;
+    color: white;
+    height: 60px;
+    width: 170px;
+    text-align: center;
+    border-radius: 10px;
+}
+.my-btn img{
+    width: 26px;
+    margin-right: 5px;
+}
+
+.my-shoping img{
+    width: 100%;
+}
+.my-card{
+    border: 0px;
+    background: #ffffff;
+}
+.my-heading{
+    font-size: 60px;
+}
+.my-heading-moon{
+    color: #76C27E;
+}
